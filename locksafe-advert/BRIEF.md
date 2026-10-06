@@ -71,3 +71,8 @@ Pillars to make every frame earn:
 8. [08 Live location map](https://d8j0ntlcm91z4.cloudfront.net/user_3C8OkTgGhJ23GOJgkItDmo6xIYC/hf_20261006_170934_c5459cd4-f1ca-4ff0-8e7c-1c8272a58aa1.mp4)
 9. [09 Contact responds](https://d8j0ntlcm91z4.cloudfront.net/user_3C8OkTgGhJ23GOJgkItDmo6xIYC/hf_20261006_170934_ec0b0391-64e9-4054-9517-775a2c32ef1f.mp4)
 10. [10 Home safe](https://d8j0ntlcm91z4.cloudfront.net/user_3C8OkTgGhJ23GOJgkItDmo6xIYC/hf_20261006_170935_47026393-fa2f-4eda-bea0-45fdd90bdbd5.mp4)
+
+## Image-based version (cheap edit, about 28s)
+Made from 11 AI stills (about 20 credits), with slow zooms, a night colour grade, film grain, crossfades and captions. 1080×1920, silent so you can add music.
+- [With captions and LockSafe end card](https://d2ol7oe51mr4n9.cloudfront.net/user_3C8OkTgGhJ23GOJgkItDmo6xIYC/10641f83-fe4b-4500-8f8f-d1cea1e849c8.mp4)
+- [Clean, no text](https://d2ol7oe51mr4n9.cloudfront.net/user_3C8OkTgGhJ23GOJgkItDmo6xIYC/031cf59f-643b-463f-9d87-c74f26df7e49.mp4)
